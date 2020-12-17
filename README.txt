@@ -1,5 +1,4 @@
 To run the program
--extract the rar file
 -run main_assist.py
 
 Requirements:-
